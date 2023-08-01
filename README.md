@@ -1,4 +1,3 @@
-# Barcode_scanner
 # Barcode Decoder README.md
 
 This README.md file provides an overview and explanation of the Barcode Decoder code created by Harsh Gupta (Desparete Enuf). The code is written in Python using the OpenCV and pyzbar libraries to detect and decode barcodes from a live video feed or an image.
